@@ -1,0 +1,33 @@
+_repo: Old-Cape-Cod-b-the-land-the-men-the-sea_70480
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bangs, Mary Rogers
+    gutenberg_agent_id: '55749'
+    url: http://www.gutenberg.org/2009/agents/55749
+description: ''
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70480'
+  lccn: '20019426'
+language: en
+pgterms:marc904: https://archive.org/details/oldcapecodlandme00bang_0/page/n9/mode/2up
+pgterms:marc905: 20211228045304bangs
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, Boston, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape Cod (Mass.)'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: The land -- The old colony -- The towns -- The French wars -- The
+  English wars -- Theology and whaling -- Storms and pirates -- Old sea ways -- The
+  captains -- The county -- Genius loci.
+title: 'Old Cape Cod : $b the land, the men, the sea'
+url: http://www.gutenberg.org/ebooks/70480
