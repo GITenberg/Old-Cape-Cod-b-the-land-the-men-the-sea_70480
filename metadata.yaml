@@ -1,11 +1,16 @@
 _repo: Old-Cape-Cod-b-the-land-the-men-the-sea_70480
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70480-h/images/back-cover.jpg
 creator:
   author:
     agent_name: Bangs, Mary Rogers
     gutenberg_agent_id: '55749'
     url: http://www.gutenberg.org/2009/agents/55749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70480#Old-Cape-Cod-b-the-land-the-men-the-sea
 gutenberg_issued: '2023-04-06'
 identifiers:
   gutenberg: '70480'
